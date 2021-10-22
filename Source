@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+Title = 'pls join group';
+Text = 'our group has been copied to your clipboard';
+Duration = 20;
+})
+setclipboard('https://www.roblox.com/groups/12347994/Brutality#!/about')
